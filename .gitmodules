@@ -1,0 +1,3 @@
+[submodule "open-galaxy"]
+	path = open-galaxy
+	url = git@github.com:tyn1998/open-galaxy.git
