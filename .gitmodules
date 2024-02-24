@@ -4,3 +4,12 @@
 [submodule "glam"]
 	path = glam
 	url = git@github.com:tyn1998/glam.git
+[submodule "infomap-force-layout"]
+	path = infomap-force-layout
+	url = git@github.com:tyn1998/infomap-force-layout.git
+[submodule "opensource-collaboration-network"]
+	path = opensource-collaboration-network
+	url = git@github.com:tyn1998/opensource-collaboration-network.git
+[submodule "xlab-clickhouse-opensource"]
+	path = xlab-clickhouse-opensource
+	url = git@github.com:tyn1998/xlab-clickhouse-opensource.git
